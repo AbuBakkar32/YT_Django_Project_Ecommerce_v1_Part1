@@ -9,6 +9,6 @@ Pillow==8.0.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 pytz==2020.4
-sqlparse==0.4.1
+sqlparse==0.4.2
 testfixtures==6.17.1
 toml==0.10.2
